@@ -1,0 +1,15 @@
+C:\Users\GLPC\Desktop\HW1\1_2\Code\obj\Debug\net6.0\1_2.csproj.AssemblyReference.cache
+C:\Users\GLPC\Desktop\HW1\1_2\Code\obj\Debug\net6.0\1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GLPC\Desktop\HW1\1_2\Code\obj\Debug\net6.0\1_2.AssemblyInfoInputs.cache
+C:\Users\GLPC\Desktop\HW1\1_2\Code\obj\Debug\net6.0\1_2.AssemblyInfo.cs
+C:\Users\GLPC\Desktop\HW1\1_2\Code\obj\Debug\net6.0\1_2.csproj.CoreCompileInputs.cache
+C:\Users\GLPC\Desktop\HW1\1_2\Code\bin\Debug\net6.0\1_2.exe
+C:\Users\GLPC\Desktop\HW1\1_2\Code\bin\Debug\net6.0\1_2.deps.json
+C:\Users\GLPC\Desktop\HW1\1_2\Code\bin\Debug\net6.0\1_2.runtimeconfig.json
+C:\Users\GLPC\Desktop\HW1\1_2\Code\bin\Debug\net6.0\1_2.dll
+C:\Users\GLPC\Desktop\HW1\1_2\Code\bin\Debug\net6.0\1_2.pdb
+C:\Users\GLPC\Desktop\HW1\1_2\Code\obj\Debug\net6.0\1_2.dll
+C:\Users\GLPC\Desktop\HW1\1_2\Code\obj\Debug\net6.0\refint\1_2.dll
+C:\Users\GLPC\Desktop\HW1\1_2\Code\obj\Debug\net6.0\1_2.pdb
+C:\Users\GLPC\Desktop\HW1\1_2\Code\obj\Debug\net6.0\1_2.genruntimeconfig.cache
+C:\Users\GLPC\Desktop\HW1\1_2\Code\obj\Debug\net6.0\ref\1_2.dll
